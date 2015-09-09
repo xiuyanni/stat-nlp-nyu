@@ -4,3 +4,9 @@ name:
    last: Petrov
 email: slav@petrovi.de
 leaderboard: SlavPetrov
+
+name:
+   first: Xiuyan
+   last: Ni
+email: nixiuyan0823@gmail.com
+leaderboard: XiuyanNi
